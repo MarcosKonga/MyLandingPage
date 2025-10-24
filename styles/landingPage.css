@@ -1,0 +1,44 @@
+#opinion, h3 {
+    color:#444545;
+    background-color: #C9C9C9;
+    border-radius: 15px;
+    display: inline-block;
+    margin: 10px;
+}
+
+#saberMas > div{
+    color:#ffffff;
+    background-color: #000000;
+    border-radius: 15px;
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+}
+
+html {
+    background-repeat: no-repeat;
+    background-size:cover;
+    text-align: center;
+}
+
+img {
+    padding: 20px;
+}
+
+body {
+    background-color: #444545;
+    border-radius: 15px;
+    display: inline-block;
+}
+
+a, h1, h2, div {
+    color: #B5FFE9;
+    border-radius: 15px;
+    display: inline-block;
+    margin: 10px;
+}
+
+p, li, form {
+    color: #C5E0D8;
+}
+
